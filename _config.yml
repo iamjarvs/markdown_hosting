@@ -1,3 +1,4 @@
 remote_theme: chrisrhymes/bulma-clean-theme
 title: Adam J Markdown Pages
 description: This is just a place for me to host some random markdown content for myself and that I can easily share with others. 
+baseurl: /markdown_hosting
